@@ -1,3 +1,4 @@
+//FILE TO TEST & CHECK THAT THE OBJECT HAS THE SPECIFIC PROPERTIES
 var utils  = require('course-utilities');
 var mit = utils.load('./mit.js', 'mit');
 
