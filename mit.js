@@ -1,8 +1,7 @@
-//DATA THAT WE ARE TESTING FOR
 var mit = {
-    city: 'Cambridge',
-    colors: 'Silver Gray',
-    mascot: "robot",
+    city: 'Cambridge, Massachusetts',
+    colors: 'Silver, Cardinal Red',
+    mascot: "Tim the Beaver",
     founded: 1861,
     motto: 'Mens et Manus',
 };
